@@ -8,6 +8,6 @@ import AppBar from 'material-ui/AppBar';
 
 const NavBar = () =>
 
-<AppBar style={ { backgroundColor: 'darkBlue' }} title="Pixabay Image Finder" />
+<AppBar style={ { backgroundColor: 'black' }} title="Pixabay Clone" />
 
 export default NavBar;
